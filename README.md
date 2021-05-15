@@ -17,7 +17,7 @@
     TTTTNNTNTNTNTNTNT
 
 ## 輸出範例
-        The input is : TTTTNNTNTNTNTNTNT
+    The input is : TTTTNNTNTNTNTNTNT
         Counter            Prediction     Outcome     Missing(Y/N)    
     -------------------------------------------------------------------- 
     1   (11, SN, SN, SN, SN)          N             T           Yes!    
