@@ -164,10 +164,8 @@ int main(int argc, char *argv[])
                     incorrect = true;
                 print(++counter,input[2], prediction, state_table, incorrect);
 
-
+                // * change the state of the counter * //
                 state_change(state_table, prediction, input);
-                
- 
 
             // * pop the first element * //
             input = input.substr(1, input.length() - 1);
