@@ -14,7 +14,7 @@
   1. 輸入參數: 檔案位置
   2. 確認輸出結果
 ## 輸入範例
-    TTTTNNTNTNTNTNTNT
+      TTTTNNTNTNTNTNTNT
 
 ## 輸出範例
     The input is : TTTTNNTNTNTNTNTNT
