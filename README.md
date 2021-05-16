@@ -20,15 +20,15 @@
     The input is : TTTTNNTNTNTNTNTNT
         Counter            Prediction     Outcome     Missing(Y/N)    
     -------------------------------------------------------------------- 
-    1   (11, SN, SN, SN, SN)          N             T           Yes!    
-    2   (11, SN, SN, SN, WN)          N             T           Yes!    
-    3   (11, SN, SN, SN, WT)          T             N           Yes!    
-    4   (10, SN, SN, SN, WN)          N             N            No     
-    5   (00, SN, SN, SN, WN)          N             T           Yes!    
-    6   (01, WN, SN, SN, WN)          N             N            No 
-    7   (10, WN, SN, SN, WN)          N             T           Yes!
-    8   (01, WN, SN, WN, WN)          N             N            No 
-    9   (10, WN, SN, WN, WN)          N             T           Yes!
+     1   (11, SN, SN, SN, SN)          N             T           Yes!    
+     2   (11, SN, SN, SN, WN)          N             T           Yes!    
+     3   (11, SN, SN, SN, WT)          T             N           Yes!    
+     4   (10, SN, SN, SN, WN)          N             N            No     
+     5   (00, SN, SN, SN, WN)          N             T           Yes!    
+     6   (01, WN, SN, SN, WN)          N             N            No 
+     7   (10, WN, SN, SN, WN)          N             T           Yes!
+     8   (01, WN, SN, WN, WN)          N             N            No 
+     9   (10, WN, SN, WN, WN)          N             T           Yes!
     10   (01, WN, SN, WT, WN)          N             N            No 
     11   (10, WN, SN, WT, WN)          T             T            No 
     12   (01, WN, SN, ST, WN)          N             N            No 
